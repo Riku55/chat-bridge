@@ -10,3 +10,7 @@ TELEGRAM_GROUP_CHAT_ID = int(os.getenv('TELEGRAM_GROUP_CHAT_ID'))
 
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 DISCORD_CHANNEL_ID = int(os.getenv('DISCORD_CHANNEL_ID'))
+
+IRC_SERVER = os.getenv('IRC_SERVER')
+IRC_PORT = int(os.getenv('IRC_PORT'))
+IRC_CHANNEL = os.getenv('IRC_CHANNEL')
