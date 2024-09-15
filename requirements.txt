@@ -1,0 +1,4 @@
+discord.py
+telethon
+irc
+python-dotenv
